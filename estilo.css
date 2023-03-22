@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-limpo-branco-de-estilo-neumorfico_1017-39043.jpg?w=2000);
+}
+
+button{
+    border-radius: 15px;
+    font-size: 50px;
+}
+
+h1{
+    font-size: 100px;
+
+}
+
+p{
+    font-size: 80px;
+}
+
+.cronomitro{
+    text-align: center;
+
+}
+
+footer{
+    text-align: center;
+    font-size: 10px;
+}
